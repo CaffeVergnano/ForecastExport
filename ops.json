@@ -1,0 +1,123 @@
+[
+  {
+    "id": "m_3630000286",
+    "at": 1791450001584,
+    "by": "finance",
+    "corr": 0,
+    "dorm": false,
+    "label": "Metodo BP dei mesi",
+    "lvl": "cli",
+    "m": "BPM",
+    "mix": "REC",
+    "scope": {
+      "cli": [
+        "3630000286"
+      ]
+    },
+    "seas": "EXP",
+    "t": "METHOD"
+  },
+  {
+    "id": "m_3630001419",
+    "at": 1791451490128,
+    "by": "finance",
+    "corr": 0,
+    "dorm": false,
+    "label": "Metodo Ultima RE allineata",
+    "lvl": "cli",
+    "m": "ULTIMA_RE",
+    "mix": "REC",
+    "scope": {
+      "cli": [
+        "3630001419"
+      ]
+    },
+    "seas": "FLAT",
+    "t": "METHOD"
+  },
+  {
+    "id": "muz6mr81ayc2t",
+    "at": 1791442535761,
+    "by": "u_kxhyzHca_8bACqpVHprCIg",
+    "label": "FARNETANI GMBH (3630001471) Dic = 4.000 kg",
+    "months": [
+      11
+    ],
+    "scope": {
+      "ca": [
+        "C14 - Nicolae Lungu"
+      ],
+      "cli": [
+        "3630001471"
+      ],
+      "dep": [
+        "Estero"
+      ]
+    },
+    "t": "SET",
+    "v": 4000
+  },
+  {
+    "id": "muz886qqtkw0z",
+    "at": 1791445215266,
+    "by": "u_kxhyzHca_8bACqpVHprCIg",
+    "label": "Totale Ott-Dic = 800.000 kg",
+    "months": [
+      9,
+      10,
+      11
+    ],
+    "scope": {
+      "dep": [
+        "Estero"
+      ]
+    },
+    "t": "SET",
+    "v": 800000
+  },
+  {
+    "id": "muzbqx2fczc7k",
+    "at": 1791451128039,
+    "by": "finance",
+    "label": "721 CAPOAREA FRANCIA Ott-Dic = 15.000 kg",
+    "months": [
+      9,
+      10,
+      11
+    ],
+    "scope": {
+      "ca": [
+        "721 - CAPOAREA FRANCIA"
+      ],
+      "dep": [
+        "Estero"
+      ]
+    },
+    "t": "SET",
+    "v": 15000
+  },
+  {
+    "id": "muzbtq8r7wp0i",
+    "at": 1791451259163,
+    "by": "finance",
+    "label": "LANGLEY RESORT NAPOLEON BONAPARTE (3410000538) Ott-Dic = 200 kg",
+    "months": [
+      9,
+      10,
+      11
+    ],
+    "scope": {
+      "ca": [
+        "721 - CAPOAREA FRANCIA"
+      ],
+      "cli": [
+        "3410000538"
+      ],
+      "dep": [
+        "Estero"
+      ]
+    },
+    "t": "SET",
+    "v": 200
+  }
+]
